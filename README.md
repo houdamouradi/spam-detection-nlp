@@ -97,16 +97,6 @@ A **likelihood-ratio test** confirms that `k=3` is significantly better than `k=
 
 ---
 
-## Repository contents
-
-```
-.
-├── groupe_17.ipynb    # Complete notebook (5 parts, EDA + modeling + analysis)
-└── README.md
-```
-
----
-
 ## Author
 
 **Houda MOURADI**
